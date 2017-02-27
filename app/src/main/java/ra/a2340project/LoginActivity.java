@@ -63,6 +63,9 @@ public class LoginActivity extends AppCompatActivity {
         });
     }
 
+    /*
+    this is a javadoc.
+     */
     public void login() {
         Log.d(TAG, "Login");
 
